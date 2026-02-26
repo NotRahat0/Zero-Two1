@@ -37,11 +37,11 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # --- [ CONFIGURATION AND CORE CREDENTIALS ] ---
 # ==============================================================================
 # Warning: These are sensitive credentials. Handle with care, Darling!
-API_ID = 
-API_HASH = ""
+API_ID = 30836681
+API_HASH = "1c8a1a16a0b66fd24108b24dae8c8a26"
 BOT_TOKEN = ""
-ADMIN_ID = 
-LOG_GROUP_ID = 
+ADMIN_ID = 6205149659
+LOG_GROUP_ID = -1003817942255 
 
 # --- [ WEB CONTROL DASHBOARD ] ---
 web_app = Flask(__name__)
@@ -789,4 +789,5 @@ if __name__ == "__main__":
 
 # ==============================================================================
 # --- [ END OF SUPREME MASTER CODE - 750+ LINES SECURED ] ---
+
 # ==============================================================================
