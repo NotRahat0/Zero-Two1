@@ -39,7 +39,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # Warning: These are sensitive credentials. Handle with care, Darling!
 API_ID = 30836681
 API_HASH = "1c8a1a16a0b66fd24108b24dae8c8a26"
-BOT_TOKEN = ""
+BOT_TOKEN = "8074778964:AAEx96L3p-g4XfjabuH2gqJ0NU0ZI5C91V4"
 ADMIN_ID = 6205149659
 LOG_GROUP_ID = -1003817942255 
 
@@ -220,7 +220,7 @@ def run_web():
 # ------------------------------------------------------------------------------
 # --- [ OPENROUTER AI ENGINE CONFIGURATION ] ---
 # ------------------------------------------------------------------------------
-GROQ_API_KEY = "Api_key Here" 
+GROQ_API_KEY = "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" 
 groq_client = Groq(api_key=GROQ_API_KEY)
 
 # Initializing the Supreme Pyrogram Client
@@ -791,3 +791,4 @@ if __name__ == "__main__":
 # --- [ END OF SUPREME MASTER CODE - 750+ LINES SECURED ] ---
 
 # ==============================================================================
+
